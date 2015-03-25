@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<logfile>/var/log/command.log</logfile>
+	<munber>5</munber>
+	<nsec>30</nsec>
+	<db_ip>127.0.0.1</db_ip>
+	<db_user>root</db_user>
+	<db_pass>123456</db_pass>
+	<db_name>database</db_name>
+	<db_tables>command</db_tables>
+</config>
