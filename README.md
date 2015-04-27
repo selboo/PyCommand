@@ -4,7 +4,7 @@ Python Audit Recording system command
 ## Create Tables
 
 ```
-CREATE TABLE `commandaaaa` ( 
+CREATE TABLE `command` ( 
     `id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, 
     `HostName` varchar(50) NOT NULL, 
     `RecordTime` datetime NOT NULL, 
